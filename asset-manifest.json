@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ps-korilla-react/static/css/main.fcfda21b.css",
+    "main.js": "/ps-korilla-react/static/js/main.7992849f.js",
+    "index.html": "/ps-korilla-react/index.html",
+    "main.fcfda21b.css.map": "/ps-korilla-react/static/css/main.fcfda21b.css.map",
+    "main.7992849f.js.map": "/ps-korilla-react/static/js/main.7992849f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcfda21b.css",
+    "static/js/main.7992849f.js"
+  ]
+}
