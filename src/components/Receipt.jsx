@@ -1,5 +1,5 @@
 export default function Receipt(props) {
-  const { person } = props.person;
+  const person = props.person;
   const 
   {
     main,
