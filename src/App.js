@@ -5,7 +5,7 @@ import data from "./data/records";
 
 function App() {
   const [receipts, setReceipts] = useState(data);
-// console.log(receipts[1])
+
   function handleClick(person) {
     setReceipts(prevReceipts => {
       return prevReceipts.map(receipt => {

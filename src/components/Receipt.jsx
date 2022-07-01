@@ -1,7 +1,6 @@
 export default function Receipt(props) {
   const person = props.person;
-  const 
-  {
+  const {
     main,
     protein,
     rice,
@@ -9,11 +8,11 @@ export default function Receipt(props) {
     toppings,
     drink,
     cost,
-    } = props.order;
+  } = props.order;
 
-    const styles = {
-      display: props.paid ? 'none' : 'block'
-    }
+  const styles = {
+    display: props.paid ? 'none' : 'block'
+  }
 
   return (
     <div style={styles} className='receipt' onClick={props.handleClick}>
